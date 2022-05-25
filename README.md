@@ -13,6 +13,10 @@ Adding a child can be performed via the AddChild button or just entering a new f
 It's a great exercise to understand nesting, react recursion and how react
 needs to have state set for this type of data.
 
+## Screenshot
+
+![SimpleReactTree](assets/simplereacttree.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
