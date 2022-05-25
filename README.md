@@ -1,3 +1,18 @@
+# Simple Recursive React Tree Structure Adding a Child
+
+This example is a simple react application that can be used for testing 
+recursively creating a tree structure and having a form or button to add a child
+at the correct child level.  It reads in a json file format or it can be setup
+to be used for testing data.   It has minimal styling.   It's a great way
+to learn about react and setting state on the children.   The setup of the JSON
+data file format is the key to being able to quickly iterate for the recursion
+and for setting state. 
+
+Adding a child can be performed via the AddChild button or just entering a new fruit in the input field.
+
+It's a great exercise to understand nesting, react recursion and how react
+needs to have state set for this type of data.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

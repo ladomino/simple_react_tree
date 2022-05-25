@@ -1,0 +1,35 @@
+{
+    "name": "apples",
+    "children": [
+      {
+        "name": "gala",
+        "children": []
+      },
+      {
+        "name": "red",
+        "children": [
+          {
+            "name": "fuji",
+            "children": []
+          },
+          { 
+            "name": "mcintosh",
+            "children": [
+              {
+                "name": "granny",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "honeycrisp",
+        "children": []
+      },
+      { 
+        "name": "envy",
+        "children": []
+      }
+    ]
+}
